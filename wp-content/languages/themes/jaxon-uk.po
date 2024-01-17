@@ -1,0 +1,415 @@
+# Translation of Themes - Jaxon in Ukrainian
+# This file is distributed under the same license as the Themes - Jaxon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-27 14:43:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Jaxon\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Jaxon is a contemporary, minimalistic theme that fully supports full-site-editing. Its versatility makes it suitable for a variety of purposes such as blogs, small businesses, startups, agencies, firms, e-commerce shops, personal portfolio sites, and more. It includes a selection of design patterns and multiple style options."
+msgstr "Jaxon - це сучасна, мінімалістична тема, яка повністю підтримує повноцінне редагування сайту. Її універсальність робить її придатною для різних цілей, таких як блоги, малий бізнес, стартапи, агентства, фірми, магазини електронної комерції, сайти особистих портфоліо та багато іншого. Вона містить в собі вибір шаблонів дизайну й кілька варіантів стилів."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Jaxon"
+msgstr "Jaxon"
+
+#: styles/sunset-orange.json
+msgctxt "Style variation name"
+msgid "Sunset Orange"
+msgstr "Помаранчевий захід сонця"
+
+#: styles/sherpa-blue.json
+msgctxt "Style variation name"
+msgid "Sherpa Blue"
+msgstr "Шерпа синя"
+
+#: styles/sapphire.json
+msgctxt "Style variation name"
+msgid "Sapphire"
+msgstr "Сапфір"
+
+#: styles/electric-violet.json
+msgctxt "Style variation name"
+msgid "Electric Violet"
+msgstr "Електричний фіолетовий"
+
+#: styles/blue-ribbon.json
+msgctxt "Style variation name"
+msgid "Blue Ribbon"
+msgstr "Блакитна стрічка"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Підвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Акцент"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Альтернативний передній план"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Фоновий темний"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Альтернативний фон"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Колір переднього плану"
+
+#: theme.json styles/blue-ribbon.json styles/electric-violet.json
+#: styles/sapphire.json styles/sherpa-blue.json styles/sunset-orange.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Readex Pro"
+msgstr "Readex Pro"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Величезний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Дуже великий"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Великий"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Середній"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Звичайний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/patterns/two-columns-with-testimonials.php
+msgctxt "Pattern title"
+msgid "Two columns with testimonials"
+msgstr "Два стовпці з подяками та відгуками"
+
+#: inc/patterns/two-columns-with-images-and-text.php
+msgctxt "Pattern title"
+msgid "Two columns with images and text"
+msgstr "Два стовпці із зображеннями та текстом"
+
+#: inc/patterns/three-columns-with-testimonials.php
+msgctxt "Pattern title"
+msgid "Three columns with testimonials"
+msgstr "Три стовпці з подяками та відгуками"
+
+#: inc/patterns/three-columns-with-products.php
+msgctxt "Pattern title"
+msgid "Three columns with products"
+msgstr "Три стовпці з товарами"
+
+#: inc/patterns/row-with-logos.php
+msgctxt "Pattern title"
+msgid "Row with logos"
+msgstr "Рядок з логотипами"
+
+#: inc/patterns/posts-in-a-three-column-grid.php
+msgctxt "Pattern title"
+msgid "Posts in a three column grid"
+msgstr "Записи в сітці з трьох стовпців"
+
+#: inc/patterns/hero-cover-with-title-and-image.php
+msgctxt "Pattern title"
+msgid "Hero cover with title and image"
+msgstr "Обкладинка героя із заголовком та зображенням"
+
+#: inc/patterns/features-with-icons.php
+msgctxt "Pattern title"
+msgid "Features with icons"
+msgstr "Функції з іконками"
+
+#: inc/patterns/categories-with-description-and-images.php
+msgctxt "Pattern title"
+msgid "Categories with description and images"
+msgstr "Категорії з описом та зображеннями"
+
+#: inc/patterns/call-to-action-inverted.php
+msgctxt "Pattern title"
+msgid "Call to action inverted"
+msgstr "Заклик до дії перевернуто"
+
+#: inc/patterns/call-to-action-boxed.php
+msgctxt "Pattern title"
+msgid "Call to action boxed"
+msgstr "Заклик до дії в рамці"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php
+msgctxt "Pattern title"
+msgid "Alternating layout with image and description"
+msgstr "Чергування розмітки із зображенням та описом"
+
+#: inc/patterns/two-columns-with-testimonials.php:28
+msgid "Selected client testimonials"
+msgstr "Вибрані подяки та відгуки клієнтів"
+
+#: inc/patterns/two-columns-with-testimonials.php:20
+msgid "Two columns with testimonials"
+msgstr "Два стовпці з подяками та відгуками"
+
+#: inc/patterns/two-columns-with-images-and-text.php:46
+#: inc/patterns/two-columns-with-images-and-text.php:68
+msgid "Read more"
+msgstr "Читати далі"
+
+#: inc/patterns/two-columns-with-images-and-text.php:25
+msgid "Product Reviews"
+msgstr "Відгуки на товар"
+
+#: inc/patterns/two-columns-with-images-and-text.php:20
+msgid "Two columns with images and text"
+msgstr "Два стовпці із зображеннями та текстом"
+
+#: inc/patterns/three-columns-with-testimonials.php:26
+msgid "Clients Testimonials"
+msgstr "Подяки та відгуки клієнтів"
+
+#: inc/patterns/three-columns-with-testimonials.php:20
+msgid "Three columns with testimonials"
+msgstr "Три стовпці з подяками та відгуками"
+
+#: inc/patterns/three-columns-with-products.php:92
+msgid "Buy Now"
+msgstr "Купити зараз"
+
+#: inc/patterns/three-columns-with-products.php:20
+msgid "Three columns with products"
+msgstr "Три стовпці з товарами"
+
+#: inc/patterns/row-with-logos.php:38
+msgid "Row with logos"
+msgstr "Рядки з логотипами"
+
+#: inc/patterns/posts-in-a-three-column-grid.php:35
+msgid "No Posts were found"
+msgstr "Не знайдено записів"
+
+#: inc/patterns/posts-in-a-three-column-grid.php:21
+msgid "Latest Posts"
+msgstr "Останні записи"
+
+#: inc/patterns/posts-in-a-three-column-grid.php:16
+msgid "Posts in a three column grid"
+msgstr "Записи в сітці з трьох стовпців"
+
+#: inc/patterns/hero-cover-with-title-and-image.php:39
+msgid "This is a button"
+msgstr "Це кнопка"
+
+#: inc/patterns/hero-cover-with-title-and-image.php:19
+msgid "Hero cover with title and button"
+msgstr "Обкладинка героя із заголовком та кнопкою"
+
+#: inc/patterns/features-with-icons.php:59
+msgid "Warranty"
+msgstr "Гарантія"
+
+#: inc/patterns/features-with-icons.php:45
+msgid "High Quality"
+msgstr "Висока якість"
+
+#: inc/patterns/features-with-icons.php:31
+msgid "Fast Delivery"
+msgstr "Швидка доставка"
+
+#: inc/patterns/features-with-icons.php:18
+msgid "Features with icons"
+msgstr "Функції з іконками"
+
+#: inc/patterns/categories-with-description-and-images.php:80
+msgid "Blouses"
+msgstr "Блузи"
+
+#: inc/patterns/categories-with-description-and-images.php:68
+msgid "Winter"
+msgstr "Зима"
+
+#: inc/patterns/categories-with-description-and-images.php:56
+msgid "Casual"
+msgstr "Повсякденний"
+
+#: inc/patterns/categories-with-description-and-images.php:44
+msgid "Elegant"
+msgstr "Елегантний"
+
+#: inc/patterns/categories-with-description-and-images.php:25
+msgid "Popular Categories"
+msgstr "Популярні категорії"
+
+#: inc/patterns/categories-with-description-and-images.php:18
+msgid "Categories with description and images"
+msgstr "Категорії з описом та зображеннями"
+
+#: inc/patterns/call-to-action-inverted.php:16
+msgid "Call to action inverted"
+msgstr "Заклик до дії перевернуто"
+
+#: inc/patterns/call-to-action-boxed.php:31
+msgid "Shop now"
+msgstr "Купити зараз"
+
+#: inc/patterns/call-to-action-boxed.php:16
+msgid "Call to action boxed"
+msgstr "Заклик до дії в рамці"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:40
+#: inc/patterns/alternating-layout-with-image-and-description.php:78
+#: inc/patterns/call-to-action-inverted.php:26
+msgid "Shop Now"
+msgstr "Купити зараз"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:31
+#: inc/patterns/alternating-layout-with-image-and-description.php:69
+#: inc/patterns/three-columns-with-products.php:31
+#: inc/patterns/three-columns-with-products.php:55
+#: inc/patterns/three-columns-with-products.php:79
+msgid "Product Name"
+msgstr "Назва товару"
+
+#: inc/patterns/alternating-layout-with-image-and-description.php:20
+msgid "Alternating layout with image and description"
+msgstr "Чергування розмітки із зображенням та описом"
+
+#: inc/Core.php:90
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: inc/Block_Patterns.php:62
+msgid "Jaxon Patterns"
+msgstr "Шаблони Jaxon"
+
+#: inc/Admin.php:110
+msgid "Learn More"
+msgstr "Дізнатись більше"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:105
+msgid "Install & Activate %s"
+msgstr "Установити та активувати %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:103
+msgid "Activate %s"
+msgstr "Активувати %s"
+
+#: inc/Admin.php:93
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter - це плагін для побудови сторінок Gutenberg Blocks, який пропонує додаткову функціональність до редактора блоків WordPress (також відомого як Gutenberg) для кращого досвіду створення сторінок без необхідності використання традиційних конструкторів сторінок."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:89
+msgid "Power up your website building experience with %s!"
+msgstr "Покращуйте свій досвід створення сайтів з %s!"
+
+#: inc/Admin.php:83
+msgid "Otter Blocks preview"
+msgstr "Попередній перегляд Otter Blocks"
+
+#: inc/Admin.php:75
+msgid "Done"
+msgstr "Готово"
+
+#: inc/Admin.php:74
+msgid "Installing"
+msgstr "Встановлення"
+
+#: inc/Admin.php:73
+msgid "Activating"
+msgstr "Активується"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Jaxon theme from source code. Please finish installation by running %s."
+msgstr "Здається, ви запускаєте тему Jaxon з вихідного коду. Будь ласка, завершіть встановлення, запустивши %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "оновивши PHP до останньої версії"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Jaxon's minimal requirement is PHP%2$s."
+msgstr "Привіт, ми помітили, що ви використовуєте застарілу версію PHP, яка більше не підтримується. Переконайтеся, що ваш сайт працює швидко і безпечно, до %1$s. Мінімальна вимога Jaxon - PHP%2$s."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeisle.com/themes/jaxon/"
+msgstr "https://themeisle.com/themes/jaxon/"
